@@ -98,6 +98,8 @@ public class DataStructure {
         // Find：确定元素属于哪一个子集。它可以被用来确定两个元素是否属于同一子集
         // Union： 将两个子集合并成同一个集合
 
+        // Graph 图
+
 
     }
 }
