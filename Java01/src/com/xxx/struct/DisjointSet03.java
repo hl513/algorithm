@@ -1,7 +1,5 @@
 package com.xxx.struct;
 
-import com.sun.deploy.ui.UIFactory;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
